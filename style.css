@@ -11,8 +11,6 @@
 }
 
 
-
-
 .sidebar {
     background-color: rgb(68, 124, 104);
     height: 70vw;
@@ -24,7 +22,6 @@
     display: grid;
     grid-template-rows: 2fr repeat(6, 1fr) repeat(3, 1fr);
 }
-
 
 
 .header {
@@ -43,4 +40,8 @@
     grid-column: 2 / 3;
     grid-row: 2 / 4;
     background-color: ;
+}
+
+h2 {
+    text-align: left;
 }
