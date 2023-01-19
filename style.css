@@ -44,4 +44,18 @@
 
 h2 {
     text-align: left;
+    padding-left: 25px;
+}
+
+.container2 {
+    padding: 25px;
+    display: grid;
+    grid-template-columns: 300px 300px;
+    grid-template-rows: 150px 150px 150px;
+    gap: 15px;
+}
+
+.card {
+    border: 2px solid rgb(200, 100, 50);
+    background-color: blanchedalmond;
 }
